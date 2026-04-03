@@ -1094,3 +1094,12 @@ strong {
   top: -35px;
   left: 0;
 }
+
+.text-h2{
+  padding-top: 80px;
+  color: rgb(0, 247, 255);
+  font-weight: 800;
+  font-size: 30px;
+  text-align: center;
+  text-shadow:0 0 20px #00e1ff;
+}
